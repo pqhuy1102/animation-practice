@@ -8,8 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{counter}</h1>
-      <button onClick={handleClick}>Increase</button>
+      <h1>test</h1>
     </div>
   );
 }
